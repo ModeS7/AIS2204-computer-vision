@@ -2,6 +2,10 @@
 
 A collection of computer vision implementations covering image processing fundamentals, camera geometry, feature detection, stereo vision, and deep learning-based classification.
 
+| Epipolar Geometry | 3D Reconstruction | CNN Confusion Matrix |
+|---|---|---|
+| ![Stereo](epipolar_geometry/images.png) | ![3D](epipolar_geometry/3d_world.png) | ![CNN](neural_network/output.png) |
+
 ## Course Information
 
 - **Course:** [AIS2204 - Maskinsyn](https://www.ntnu.edu/studies/courses/AIS2204)
