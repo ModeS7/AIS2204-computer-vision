@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+tutorial/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large files
+*.pdf
+*.epub
+*.pptx
+
+# Videos
+*.mp4
+*.avi
+
+# Model checkpoints
+*.pth
+*.pt
+
+# Datasets
+cifar-10-batches-py/
+cifar-10-python.tar.gz
+
+# Test images (keep lenna as example)
+# *.ppm
